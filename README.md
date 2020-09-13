@@ -10,7 +10,7 @@ firebase
 1. Initialize ReactJS project.
 2. npm run build for production deploy
 3. Deploy finished project on Firebase with firebase init (need to login). 
-### <a href="https://tiktok-clone1.web.app/">LIVE DEMO</>
+### <a href="https://tiktok-clone1.web.app/">LIVE DEMO</a>
 
 ## Bugs:
 1. Video still play after scroll
